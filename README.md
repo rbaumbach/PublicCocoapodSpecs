@@ -26,3 +26,9 @@ Using ssh:
 Using https:
 
 `source https://github.com/rbaumbach/PublicCocoapodSpecs.git`
+
+## Additional Notes
+
+Additional podspecs can be added by doing the following:
+
+`pod repo push PublicCocoapodSpecs <INSERT_YOUR_POD_SPEC_NAME>.podspec`
